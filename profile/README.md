@@ -1,6 +1,3 @@
-
-![](airef.png)
-
 # AIReF - Repositorio de Código
 
 <div align="center">
