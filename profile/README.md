@@ -1,5 +1,5 @@
 
-![](https://www.airef.es/wp-content/uploads/2022/01/Logo_Airef_esp-2.svg)
+<img src="https://www.airef.es/wp-content/uploads/2022/01/Logo_Airef_esp-2.svg" alt="" />
 
 # AIReF - Repositorio de Código
 
