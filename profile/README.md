@@ -1,5 +1,5 @@
 
-<img src="https://www.airef.es/wp-content/uploads/2022/01/Logo_Airef_esp-2.svg" alt="" />
+![](airef.png)
 
 # AIReF - Repositorio de Código
 
@@ -45,25 +45,6 @@ Este es el **repositorio oficial de GitHub** de la **Autoridad Independiente de 
 - **Aplicaciones corporativas** de la AIReF
 - **Herramientas administrativas** internas
 - **Proyectos en desarrollo** no listos para publicación
-
----
-
-## 🚀 Proyectos Principales
-
-### 📊 **Análisis Fiscal**
-- Herramientas de procesamiento de datos económicos
-- Algoritmos de análisis de sostenibilidad fiscal
-- Generadores de informes automatizados
-
-### 🏗️ **Infraestructura**
-- Sistemas de gestión de bases de datos
-- APIs de integración con sistemas externos
-- Herramientas de monitoreo y logging
-
-### 📱 **Aplicaciones Web**
-- Portales de datos abiertos
-- Dashboards de indicadores fiscales
-- Herramientas de consulta ciudadana
 
 ---
 
@@ -203,15 +184,6 @@ Este es el **repositorio oficial de GitHub** de la **Autoridad Independiente de 
 
 ---
 
-<div align="center">
-
-**💻 Desarrollando el futuro tecnológico de la fiscalidad española 💻**
-
-*"Código abierto para una fiscalidad transparente"*
-
-</div>
-
----
 
 ## 📝 Notas Importantes
 
